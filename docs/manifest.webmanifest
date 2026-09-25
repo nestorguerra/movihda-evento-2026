@@ -1,0 +1,15 @@
+{
+  "name": "II Reunión MoVIHda Andalucía 2026",
+  "short_name": "MoVIHda 2026",
+  "description": "Agenda y guía de la II Reunión MoVIHda Andalucía 2026 en Málaga.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#13303A",
+  "theme_color": "#13303A",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
